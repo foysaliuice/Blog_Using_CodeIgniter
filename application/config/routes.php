@@ -9,3 +9,5 @@ $route['about'] = 'homeController/about';
 $route['contact'] = 'homeController/contact';
 $route['admin'] = 'AdminController';
 $route['titleslogan'] = 'adminController/titleslogan';
+$route['copyright'] = 'adminController/copyright';
+$route['social'] = 'adminController/social';

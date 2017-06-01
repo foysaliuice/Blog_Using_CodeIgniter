@@ -1,0 +1,37 @@
+/* Bigger Screen Layout: 960px.  */
+.wrapper{width: 960px;}
+.selectnav{display: none;}
+#nav{display: block;}
+.maincontent {width: 606px;}
+.samepost img{width: 200px;}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 960px) {
+.wrapper{width: 750px;}
+.selectnav{display: none;}
+#nav{display: block;}
+.maincontent{width:450px;}
+.sidebar{width: 200px;}
+.samepost img{width: 200px;}
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+.wrapper{width: 300px;}
+.selectnav{display: block;}
+#nav{display: none;}
+.maincontent {width: 240px;}
+.searchbtn input[type="text"] {
+  width: 168px;
+}
+.samepost img{width: 95%;}
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.wrapper{width: 450px;}
+.selectnav{display: block;}
+#nav{display: none;}
+.maincontent {width: 370px;}
+.samepost img{width: 95%;}
+}

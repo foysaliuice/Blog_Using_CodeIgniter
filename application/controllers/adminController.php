@@ -12,5 +12,8 @@
     public function copyright(){
       $this->load->view('admin/copyright');
     }
+    public function social(){
+      $this->load->view('admin/social');
+    }
   }
 ?>

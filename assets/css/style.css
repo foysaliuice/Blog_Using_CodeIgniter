@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700);
 *{margin:0;padding:0;outline:0}
-body{font-family: 'Source Sans Pro', sans-serif;font-size:14px;line-height:18px;color:#000;background:url(assets/images/bg.png)repeat fixed 0 0 #fff;}
+body{font-family: 'Source Sans Pro', sans-serif;font-size:14px;line-height:18px;color:#000;background:url(../images/bg.png)repeat fixed 0 0 #fff;}
 .wrapper{margin: 0 auto;transition: all 0.9s ease 0s;-moz-transition: all 0.9s ease 0s;-webkit-transition: all 0.9s ease 0s;-o-transition: all 0.9s ease 0s;}
 .clear{overflow:hidden;}
 img{max-width: 100%;}

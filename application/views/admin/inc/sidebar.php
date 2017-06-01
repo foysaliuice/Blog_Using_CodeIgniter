@@ -5,7 +5,7 @@
                <li><a class="menuitem">Site Option</a>
                     <ul class="submenu">
                         <li><a href="<?php echo base_url('titleslogan'); ?>">Title & Slogan</a></li>
-                        <li><a href="social.html">Social Media</a></li>
+                        <li><a href="<?php echo base_url('social'); ?>">Social Media</a></li>
                         <li><a href="<?php echo base_url('copyright'); ?>">Copyright</a></li>
 
                     </ul>

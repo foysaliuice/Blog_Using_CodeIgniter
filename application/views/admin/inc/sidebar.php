@@ -4,7 +4,7 @@
             <ul class="section menu">
                <li><a class="menuitem">Site Option</a>
                     <ul class="submenu">
-                        <li><a href="titleslogan.html">Title & Slogan</a></li>
+                        <li><a href="<?php echo base_url('titleslogan'); ?>">Title & Slogan</a></li>
                         <li><a href="social.html">Social Media</a></li>
                         <li><a href="copyright.html">Copyright</a></li>
 

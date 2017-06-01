@@ -6,5 +6,9 @@
     public function index(){
       $this->load->view('admin/index');
     }
+
+    public function titleslogan(){
+      $this->load->view('admin/titleslogan');
+    }
   }
 ?>

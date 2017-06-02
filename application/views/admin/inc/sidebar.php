@@ -19,8 +19,8 @@
                 </li>
                 <li><a class="menuitem">Category Option</a>
                     <ul class="submenu">
-                        <li><a href="addcat.html">Add Category</a> </li>
-                        <li><a href="catlist.html">Category List</a> </li>
+                        <li><a href="<?php echo base_url('addcat');?>">Add Category</a> </li>
+                        <li><a href="<?php echo base_url('catlist');?>">Category List</a> </li>
                     </ul>
                 </li>
                 <li><a class="menuitem">Post Option</a>

@@ -11,3 +11,5 @@ $route['admin'] = 'AdminController';
 $route['titleslogan'] = 'adminController/titleslogan';
 $route['copyright'] = 'adminController/copyright';
 $route['social'] = 'adminController/social';
+$route['addcat'] = 'adminController/addcat';
+$route['catlist'] = 'adminController/catlist';

@@ -7,7 +7,7 @@
 	<meta name="description" content="It is a website about education">
 	<meta name="keywords" content="blog,cms blog">
 	<meta name="author" content="Foysal">
-	<link rel="stylesheet" href="<?php echo base_url('assets/font-awesome-4.5.0/css/font-awesome.css'); ?>">
+	<link rel="stylesheet" href="<?php echo base_url('assets/css/font-awesome-4.5.0/css/font-awesome.css'); ?>">
 	<link rel="stylesheet" href="<?php echo base_url('assets/css/nivo-slider.css'); ?>" type="text/css" media="screen" />
 	<link rel="stylesheet" href="<?php echo base_url('assets/css/style.css'); ?>">
 	<link rel="stylesheet" href="<?php echo base_url('assets/css/responsive.css'); ?>">

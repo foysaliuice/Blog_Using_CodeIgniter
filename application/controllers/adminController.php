@@ -15,5 +15,11 @@
     public function social(){
       $this->load->view('admin/social');
     }
+    public function addcat(){
+      $this->load->view('admin/addcat');
+    }
+    public function catlist(){
+      $this->load->view('admin/catlist');
+    }
   }
 ?>
